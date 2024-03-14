@@ -1,13 +1,15 @@
 # Open Source Community Health
 
-If you are interested in joining, please any of the following people to be added to the shared Google Drive, GitHub organization, and Mattermost server.
+If you are interested in joining, please contact any of the following people to be added to the shared Google Drive, GitHub organization, and Slack org.
 
 - Jordana Fung
+- Ruth Cheesley
+- Oliver Klee
 - [Zan Baldwin](mailto:hello@zanbaldwin.com)
 
 ### Meetings
 
-Meetings are currently held over Zoom on the third Friday of the month at 15:00 (UTC).
+Meetings are currently held over Zoom on the first Tuesday of the month at 16:00 (UTC).
 Please contact Jordana Fung to be added to the recurring calendar event (that includes Zoom link and document links).
 
 ### Mission Statement
