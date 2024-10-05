@@ -1,11 +1,6 @@
 # Open Source Community Health
 
-If you are interested in joining, please contact any of the following people to be added to the shared Google Drive, GitHub organization, and Slack org.
-
-- Jordana Fung
-- Ruth Cheesley
-- Oliver Klee
-- [Zan Baldwin](mailto:hello@zanbaldwin.com)
+If you are interested in joining, please fill out the form [here](https://forms.gle/rLa2QrSpN8trhv9S7) to be added to the shared Google Drive, GitHub organization, and Slack org.
 
 ### Meetings
 
